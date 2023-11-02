@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(234, 136, 232);
+}
+.container{
+    background: #e675d5;
+    width: 479px;
+    height: 67px;
+    display: flex;
+    justify-content: center;
+    margin-left: 362px;
+    margin-top: 66px;
+ }
+
+.innerContainer{
+    height: 40px;
+    width: 375px;
+    border-radius: 11px;
+    border-color: #633e05;
+ }
+ .innerContainer-add{
+    height: 40px;
+    width: 65px;
+    border-radius: 12px;
+    border-color: #633e05;
+ }

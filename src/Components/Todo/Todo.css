@@ -1,0 +1,32 @@
+.inside-container{
+    background: #e87dd7;
+    width: 475px;
+    height: 73px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: 362px;
+    margin-top: -19px;
+    border: 2px solid #d66;
+}
+.check{
+    margin-left: 12px;
+}
+.edit{
+    margin-left: 12px;
+    border-radius: 6px;
+}
+.edit:hover{
+    background-color: #fffdfd;
+}
+
+.delete{
+    margin-left: 12px;
+    border-radius: 6px;
+}
+.delete:hover{
+    background-color: #fffdfd;
+}
+.text{
+    border-radius: 6px;
+}
